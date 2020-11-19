@@ -1,0 +1,18 @@
+header_style{
+    display: flex;
+    border-bottom: 2px solid #0a121f;
+    height: 30px;
+    background-color:ivory;
+    
+}
+
+.heading{
+    display: grid;
+    text-align: center;
+    border: 2px solid indigo;
+    background-color:darkgray;
+    font-family: 'Franklin Gothic Medium',;
+    
+    font-size: 40px;
+
+}
